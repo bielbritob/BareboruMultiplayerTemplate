@@ -12,6 +12,6 @@ by **bielbritob**
 - Topspin Serve:
 <p align="center"><img src="https://github.com/bielbritob/BareboruMultiplayerTemplate/blob/master/Unreal%20Engine%205%202024.05.25%20-%2011.50.22.03.gif" width="70%" /></p>
 
-- Float Serve: Cooming Soon 😁
+- Float Serve: Coming Soon 😁
 
 - Scoreboard
